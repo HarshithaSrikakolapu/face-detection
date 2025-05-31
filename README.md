@@ -3,6 +3,7 @@
 **Step 1:** Clone the Repository
 
 git clone https://github.com/HarshithaSrikakolapu/face-detection.git
+
 cd face-detection
 
 
