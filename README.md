@@ -17,6 +17,17 @@ If requirements.txt is not available, just install manually:
 
 pip install opencv-python
 
+
+Make sure the file haarcascade_frontalface_default.xml is present in your project folder.
+
+You can get it from:
+
+**OpenCV GitHub:**
+
+https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
+
+Place this file in the same directory as your facedetection.py file.
+
 **Step 3:** Run the Face Detection Script
 Make sure the .xml file is in the same directory as your Python script.
 
